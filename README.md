@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
 ![image](https://github.com/tulinsymn/kodluyoruzilkrepo/assets/151936785/a8a63bd4-b898-4096-b92f-8446c1035a12)
 
 
